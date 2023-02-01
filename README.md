@@ -23,4 +23,4 @@ Install requirements:
 pip3 install -r requirements.txt
 ```
 
- Download the dataset [here](https://www.dropbox.com/scl/fo/9bkoxbfhkxrvrkw2ho7md/h?dl=0&rlkey=iggllq102szbg270tpywo8zpa) and move it into the project folder.
+ Download the dataset [here](https://www.dropbox.com/scl/fo/9bkoxbfhkxrvrkw2ho7md/h?dl=0&rlkey=iggllq102szbg270tpywo8zpa) and move the folder 'dsl_data' into the project folder.
