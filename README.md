@@ -13,7 +13,7 @@ a Random Forest classification model. The presented method
 overcomes the benchmark set for the issue and delivers overall
 acceptable outcomes.
 
-**You can find an in-depth explaination in this [report](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/55fcc500-73b7-4fa9-8205-4f8c9c1b88a5/_Report_exam_winter_2023_s309855_s318105.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20230201%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20230201T112306Z&X-Amz-Expires=86400&X-Amz-Signature=ec10ffdd4241cfa8107df989d75b8d758f4c1af4742405f68b7ca97c6fa5b6c4&X-Amz-SignedHeaders=host&response-content-disposition=filename%3D%22%2520Report.pdf%22&x-id=GetObject).**
+**You can find an in-depth explaination in this [report](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/55fcc500-73b7-4fa9-8205-4f8c9c1b88a5/_Report_exam_winter_2023_s309855_s318105.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20230221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20230221T141633Z&X-Amz-Expires=86400&X-Amz-Signature=fedd986d999cb5b7bb8df84f6a50bd4a5b1fae587cc2ecab7f2bbd9b268da041&X-Amz-SignedHeaders=host&response-content-disposition=filename%3D%22%2520Report.pdf%22&x-id=GetObject).**
 
 ## Set up
 
